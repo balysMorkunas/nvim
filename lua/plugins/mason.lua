@@ -9,6 +9,8 @@ return {
       "shellcheck",
       "shfmt",
       "flake8",
+      -- DAP
+      "kotlin-debug-adapter",
     },
   },
 }
